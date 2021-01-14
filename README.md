@@ -8,6 +8,8 @@
 > 
 > [HTML公式整洁版](https://chenwx.com/other/notes.html)
 
+求star❤💕💖😘
+
 ## 人工智能的概念
 
 - #### 定义 智能机器
