@@ -6,7 +6,7 @@
 > 
 > 2.**对抗算法基本原理 minimax 算法 alpha-beta 剪枝 蒙特卡洛树搜索算法**
 > 
-> [HTML公式整洁版](https://chenwx.com/other/notes.html)
+> [HTML公式整洁版](https://chenwx.com/github/ai-notes.html)
 
 求star❤💕💖😘
 
