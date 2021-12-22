@@ -1,4 +1,4 @@
-# <center>人工智能导论</center>
+# <center>人工智能导论 Introduction to Artificial Intelligence - 2019 Fall Notes</center>
 
 > 我们期末考试的题型主要包括了**选择、填空、判断、问答、证明**等题型。大家复习的时候需要多理解老师们在课上讲的关于传统人工智能、博弈论、新人工智能的部分中的**示例**，不需要死记硬背一些概念。其中博弈论部分复习要点为：
 > 
